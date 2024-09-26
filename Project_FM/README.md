@@ -30,8 +30,8 @@ Bu proje, bir futbol yönetim oyunu için geliştirilmiş bir API'dir. Kullanıc
 
 1. **Depoyu klonlayın**:
    ```bash
-   git clone https://github.com/kullaniciadi/proje-adi.git
-   cd proje-adi
+   git clone https://github.com/FerhatCakircali/FootballManagerAPI
+   cd Project_FM
 
 
 2. **Backend için gerekli Python paketlerini yükleyin**:
