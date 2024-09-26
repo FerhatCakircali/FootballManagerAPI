@@ -59,8 +59,8 @@ npm start
 
 # Veya GitBash ile "entrypoint.sh" çalıştırın o gerekli işlemleri yapacaktır.
 
-# Otomatik olarak Admin hesabı oluşturur ilk giriş için:
-# Email : admin@a.com - Password: 21
+ Otomatik olarak Admin hesabı oluşturur ilk giriş için:
+ Email : admin@a.com - Password: 21
 
 *******************************************************************************
 
